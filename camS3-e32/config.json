@@ -1,0 +1,11 @@
+{
+    "wifiSsid": "Asd-guest",
+    "wifiPass": "12345678",
+    "startPoster": "no",
+    "waitApFirst": "no",
+    "nickname": "UnitCamS3",
+    "postInterval": 5,
+    "timeZone": "GMT+2",
+    "startShooter": "yes",
+    "delayApFirst": 3
+  }
